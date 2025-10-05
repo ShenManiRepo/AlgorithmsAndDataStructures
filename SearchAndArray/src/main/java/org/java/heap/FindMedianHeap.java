@@ -1,4 +1,4 @@
-package org.java.arrays;
+package org.java.heap;
 
 import java.util.PriorityQueue;
 
